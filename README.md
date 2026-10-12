@@ -65,9 +65,4 @@ SmartInternz **MERN Full Stack** · NPTEL **Cloud Computing** (2024) · Ethnus F
   <img src="https://github-readme-stats.vercel.app/api?username=KmSasikumar&show_icons=true&theme=github_dark" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmSasikumar&layout=compact&theme=github_dark" alt="Top languages" height="165" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KmSasikumar&theme=github-dark-blue" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KmSasikumar&theme=darkhub&column=6" alt="GitHub trophies" />
-</p>
+
